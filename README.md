@@ -31,6 +31,6 @@ Time spent: `10`
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://raw.githubusercontent.com/CrabDude/Yelp/master/walkthrough.gif)
 
 
